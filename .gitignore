@@ -1,0 +1,20 @@
+# Carpetas IDE (en cualquier ubicación)
+.ide/
+**/.ide/
+
+# Maven build directory (en cualquier ubicación)
+target/
+**/target/
+
+# Archivos ZIP (en cualquier ubicación)
+*.zip
+**/*.zip
+
+# Archivos de configuración IDE adicionales
+.idea/
+.vscode/
+*.iml
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
